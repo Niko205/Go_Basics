@@ -32,6 +32,6 @@ func main() {
 	// Möchte man auf eine Variable etwas draufaddiern, kann man nach dem "=" einfach nochmal die Variable aufrufen:
 	intvar1 = intvar1 + 1
 	intvar1 += 1 // Hat den selben effekt wie darüber
-	intvar1++ // Erhöt die Variable ebenfalls um +1
-	intvar+2+
+	intvar1++    // Erhöt die Variable ebenfalls um +1
+	// Alle drei auch durch - austauschbar
 }
