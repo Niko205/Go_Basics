@@ -34,4 +34,25 @@ func main() {
 	intvar1 += 1 // Hat den selben effekt wie darüber
 	intvar1++    // Erhöt die Variable ebenfalls um +1
 	// Alle drei auch durch - austauschbar
+
+	// Zudem lassen sich Strings mit den Rechenoperator "+" zusammenfügen
+	stringvar1 := "Hallo"
+	stringvar2 := "Welt"
+	stringvar3 := stringvar1 + stringvar2 // Hängt die Strings direkt aneinander, ohne Leerzeichen
+	fmt.Println(stringvar3)
+	fmt.Println(stringvar1, stringvar2) // Andere Option, fügt zudem ein Leerzeichen ein
+
+	// Man kann Rechenoperatoren ebenfalls auf den Datentyp Byte anwenden, dieses Thema ist jedoch etwas größer und bekommt ein eigenes Kapitel
+
+	// Zuletzt wird noch die Funktion "Printf" vom package "fmt" vorgestellt
+	// Diese erzeugt eine Formatierte Ausgabe, sprich fügt eine Variable and einer bestimmten Stelle in der Ausgabe ein
+	// Man ruft sie ganz normal mittel "fmt.Printf()" auf, jedoch muss man ihr nun zwei Werte in der Klammer übergeben
+	// Inhlat der Klammer: ("Text der ausgegebn werden soll" , Name der Variable)
+	// Nun kann man an einer Beliebigen stelle im Text den platzhalter "%" eingestzt werden
+	// Dieser legt fest an welcher Stelle der Wert der Variable eingefügt werden soll
+	// Hinter das "%" muss der Anfangsbuchstabe des gewollten Datentyps geschrieben werden:
+	// %d <- dezimal für Zahlen, %s <- string, %b <- byte
+	fmt.Printf("Den Wert: %d hat die Variable intvar3", intvar3)
+
+	// In diesem Kapitel gibt es wieder einen Test, öffne nun also die Dateien uebung.go und uebung_test.go
 }
