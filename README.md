@@ -20,6 +20,6 @@ In Arbeit:
 
 Kapitel 5: Listen und Schleifen
 
-Kapitel 7: Funktionen
+Kapitel 6: Funktionen
 
-Kapitel 8: Byterechnen
+Kapitel 7: Byterechnen
