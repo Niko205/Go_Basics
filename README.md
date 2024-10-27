@@ -1,7 +1,7 @@
 # Vorwort
-Ein Kurs der Kapittel für Kapittel die Basics von Go erklären soll.
+Ein Kurs der Kapitel für Kapitel die Basics von Go erklären soll.
 
-In jedem Kapitel sind Code-Beispiele mit Beschreibung vorhanden.
+In jedem Kapitel sind in der main.go Datei Code-Beispiele mit Beschreibung und Terminal Ausgaben vorhanden.
 
 In einigen Kapiteln gibt es dazu noch Test wo das neue Wissen angewandt werden kann.
 
@@ -14,10 +14,12 @@ Kapitel 2: Anlegen und benutzten von Variablen
 
 Kapitel 3: Anwendung von Rechenoperatoren auf verschiedene Datentypen
 
-In Arbeit:
+Kapitel 4: Vergleichsoperatoren und if/else Anweisungen, Switch Case
 
-Kapitel 4: Vergleichsoperatoren und if/else Anweisungen
+In Arbeit:
 
 Kapitel 5: Listen und Schleifen
 
-Kapitel 6: Funktionen
+Kapitel 7: Funktionen
+
+Kapitel 8: Byterechnen
