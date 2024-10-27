@@ -18,12 +18,6 @@ Kapitel 4: Vergleichsoperatoren und if/else Anweisungen, Switch Case
 
 Kapitel 5: Listen und Schleifen
 
-<<<<<<< HEAD
-In Arbeit:
-
-Kapitel 7: Funktionen
-=======
 Kapitel 6: Funktionen
->>>>>>> 9b3ac3197d8d3871b12df43fbca2b96311f4af2f
 
 Kapitel 7: Byterechnen
