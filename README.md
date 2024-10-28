@@ -18,8 +18,12 @@ Kapitel 4: Vergleichsoperatoren und if/else Anweisungen, Switch Case
 
 Kapitel 5: Listen und Schleifen
 
-In Arbeit:
-
 Kapitel 6: Funktionen
 
-Kapitel 7: Byterechnen
+In Arbeit:
+
+Kapitel 7: Importieren un benutzten von Packages
+
+Kapitel 8: Byterechnen
+
+Kapitel 9: Suchen und sortieren

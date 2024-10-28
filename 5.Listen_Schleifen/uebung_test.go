@@ -1,6 +1,6 @@
 package listen_schleifen
 
-// Hier siehts du wie die Terminal Ausgabe der Übunf aussehen soll
+// Hier siehts du wie die Terminal Ausgabe der Übung aussehen soll
 func ExampleUebung() {
 	Uebung()
 
@@ -10,7 +10,7 @@ func ExampleUebung() {
 	// Hallo Welt
 }
 
-// Mögliche Lösung, erst danach schauen oder du es nicht hinbekommst
+// Mögliche Lösung, erst danach schauen oder wenn du es nicht hinbekommst
 /*
 	1.
 	for i := 0; i < len(intlist); i++ {
