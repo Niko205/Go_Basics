@@ -20,9 +20,9 @@ Kapitel 5: Listen und Schleifen
 
 Kapitel 6: Funktionen
 
-In Arbeit:
+Kapitel 7: Importieren und benutzten von Packages
 
-Kapitel 7: Importieren un benutzten von Packages
+In Arbeit:
 
 Kapitel 8: Byterechnen
 
