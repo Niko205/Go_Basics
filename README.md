@@ -22,8 +22,6 @@ Kapitel 6: Funktionen
 
 Kapitel 7: Importieren und benutzten von Packages
 
-In Arbeit:
-
 Kapitel 8: Byterechnen
 
 Kapitel 9: Suchen und sortieren
